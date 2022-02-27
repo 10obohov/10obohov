@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @10obohov
-- 👀 I’m interested in Game Development, Software Development, 3D Printing and 3D Designs. 
-- 🌱 I’m currently learning Python and C#
+- 👀 I’m interested in Game Development, Software Development, 3D Printing and Robotics. 
+- 🌱 I’m currently learning HTML and Python
 - 💞️ I’m looking to collaborate on a video game in the near future. 
 - 📫 How to reach me obohoviesa@gmail.com
 
